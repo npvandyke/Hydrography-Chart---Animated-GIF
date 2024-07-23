@@ -10,6 +10,6 @@ Next, I used R's [ggraph package](https://cran.r-project.org/web/packages/ggraph
 
 After exporting the full dendrogram plot as a [vector image](https://github.com/npvandyke/Hydrography_Chart_Animated_GIF/blob/main/SVGs/Dendro_0.svg), I needed to create several more "build out" images to show specific segments of the dendrogram plot, and to add other details like the plot title, labels, legend, and coloring. <BR>
 
-I created the "build out" [vector images](https://github.com/npvandyke/Hydrography_Chart_Animated_GIF/tree/main/PDFs) by editing the [exported image](https://github.com/npvandyke/Hydrography_Chart_Animated_GIF/blob/main/SVGs/Dendro_0.svg) using a combination of Inkscape and Microsoft PowerPoint. Other programs, e.g., Adobe Illustrator, could be used as well. <BR>
+I created the "build out" [vector images](https://github.com/npvandyke/Hydrography_Chart_Animated_GIF/tree/main/PDFs) by editing the [exported image](https://github.com/npvandyke/Hydrography_Chart_Animated_GIF/blob/main/SVGs/Dendro_0.svg) using a combination of Inkscape and Microsoft PowerPoint. Other programs, e.g., Adobe Illustrator, could be used here as well. <BR>
 
 Finally, I used GIMP to splice together the "build out" vector images into an animated GIF. 
